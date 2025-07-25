@@ -32,7 +32,8 @@ This is a simple and visually appealing counter application built with React and
 ├── App.jsx        # Main counter component
 ├── App.css        # Tailwind base & custom styles
 ├── main.jsx       # ReactDOM render
+```
 
-
+<img width="600" height="614" alt="Screenshot (559)" src="https://github.com/user-attachments/assets/7661906f-b5d3-4ddb-8588-2e9c8729063c" />
 
 
